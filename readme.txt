@@ -20,7 +20,7 @@ Create a program that:
   f)  Edit - The user is re-prompted for input into the array (all elements)
   g)  Exit - terminate the program
 3.  Loop back to step 2
-There should be at least 4 functions used in this program
+There should be at least 4 functions used in this program. The argument should be the array itself in most of these functions.
 
 You should probably use a global const int for array size. Do not use global variables unless they’re constants!
 
