@@ -40,5 +40,5 @@ Filename
 <Last Name><First Initial>lab5.cpp
 For example, my assignment would be named MayElab5.cpp
 
-Name your repository after your filename. Create your submission from the following link: 
+Name your repository after your filename. Create your submission from the following link: https://classroom.github.com/g/1KAvw0Ag
 
